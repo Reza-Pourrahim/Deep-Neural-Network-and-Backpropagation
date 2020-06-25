@@ -11,7 +11,7 @@ using such tools.
 As a benchmark to test our models, we consider an image classiffcation task using the widely used CIFAR-10
 dataset. This dataset consists of 50000 training images of 32x32 resolution with 10 object classes, namely
 airplanes, cars, birds, cats, deer, dogs, frogs, horses, ships, and trucks. The task is to code and train a
-parameterised model for classifying those images. This involves
+parameterised model for classifying those images. This involves <br/>
  Implementing the feedforward model 
  Implementing the backpropagation algorithm (gradient computation)
  Training the model using stochastic gradient descent and improving the model training with better hyperparameters
